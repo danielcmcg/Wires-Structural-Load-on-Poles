@@ -50,7 +50,7 @@ A2/0	121	121	220	220
 ## Importing Data
 The system analyzes the data once the path to the GIS data is placed or selected on the top text field and the button "Importar Rede" is pressed.
 ## User Interface
-![](img2.png)
+![](img3.png)
 ### Window 1
 List of poles with resultant load and mnemonic description.
 * Yellow for resultant load 50daN higher than pole nominal load;
