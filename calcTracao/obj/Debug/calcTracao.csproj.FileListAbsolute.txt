@@ -1,0 +1,31 @@
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\obj\Debug\calcTracao.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\obj\Debug\calcTracao.MainForm.resources
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\obj\Debug\calcTracao.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\bin\Debug\calcTracao.exe
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\bin\Debug\calcTracao.pdb
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\obj\Debug\calcTracao.exe
+C:\Users\danie\Documents\SharpDevelop Projects\calcTracao\calcTracao\obj\Debug\calcTracao.pdb
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.exe
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.pdb
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csprojResolveAssemblyReference.cache
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.MainForm.resources
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csproj.GenerateResource.Cache
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.exe
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.pdb
+C:\Users\danie\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.Help.resources
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.exe
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.pdb
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.Help.resources
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.MainForm.resources
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.exe
+C:\Users\Daniel\Dropbox\CPFL 2016\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\bin\Debug\calcTracao.pdb
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.Help.resources
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.MainForm.resources
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.exe
+C:\Users\Daniel\Documents\SharpDevelop Projects\Excel_VBA_testes\calcTracao\Projeto Csharp\calcTracao\obj\Debug\calcTracao.pdb

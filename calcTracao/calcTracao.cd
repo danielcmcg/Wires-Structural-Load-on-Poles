@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="calcTracao.MainForm" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="3.925724" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Vao" Collapsed="False">
+    <Position X="0.5" Y="20.7" Width="1.479245" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Tracao" Collapsed="False">
+    <Position X="0.5" Y="24.8" Width="1.801349" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Help" Collapsed="False">
+    <Position X="0.5" Y="27.5" Width="1.78443" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.ListaVaos" Collapsed="False">
+    <Position X="0.5" Y="29.8" Width="1.574743" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Estai" Collapsed="False">
+    <Position X="0.5" Y="31.7" Width="1.083395" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Program" Collapsed="False">
+    <Position X="0.5" Y="33" Width="1.444186" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Poste" Collapsed="False">
+    <Position X="0.5" Y="34.4" Width="2.418488" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Transformador" Collapsed="False">
+    <Position X="0.5" Y="38.9" Width="2.064049" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.ListaMnemonicos" Collapsed="False">
+    <Position X="0.5" Y="40.7" Width="2.344098" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="calcTracao.Resultado" Collapsed="False">
+    <Position X="0.5" Y="43.2" Width="1.59988" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
